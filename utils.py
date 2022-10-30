@@ -25,8 +25,8 @@ def parse_input_and_mask(data_path, data_code='TCGA'):
         - data_code --> String identifier to each file name (default: TCGA)
 
     OUTPUT:
-        - output_dict --> dictionary with MRI scans as keys, and tumor masks as values)
-        - input_files_list --> list with all the MRI input files)
+        - output_dict --> dictionary with MRI scans as keys, and tumor masks as values
+        - input_files_list --> list with all the MRI input files
 
     '''
 
